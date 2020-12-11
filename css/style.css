@@ -1,0 +1,79 @@
+:root {
+  --primary-text-color: #757575;
+  --title-text-color: #212121;
+  --accent-color: #2196f3;
+  --logo-studio-color: #000000;
+  --primary-bg-color: #ffffff;
+  --add-bg-color: #f5f4fa;
+  --add-text-color: #ffffff;
+  --add-accent-color: rgba(33, 150, 243, 0.9);
+  --footer-bg-color: #2f303a;
+  --footer-add-text-color: rgba(255, 255, 255, 0.6);
+}
+.logo-web {
+  color: #2196f3;
+}
+.logo-studio {
+  color: #212121;
+}
+.logo-studio-2 {
+  color: #ffffff;
+}
+.link-current {
+  color: #212121;
+}
+.link-current:hover {
+  color: #2196f3;
+}
+.link {
+  color: #212121;
+}
+.link:hover {
+  color: #2196f3;
+}
+.email,
+.tel {
+  color: #757575;
+}
+.email:hover,
+.tel:hover {
+  color: #2196f3;
+}
+.order-button {
+  background-color: #2f303a;
+  color: #ffffff;
+}
+h3,
+h2 {
+  color: #212121;
+}
+p {
+  color: #757575;
+}
+.submit {
+  background-color: #2196f3;
+  color: #ffffff;
+}
+.team {
+  background-color: #f5f4fa;
+}
+.footer {
+  background-color: #2f303a;
+}
+.footer-address {
+  font: inherit;
+}
+.filter-button {
+  color: #212121;
+  background-color: #f5f4fa;
+}
+.filter-button:hover {
+  color: #ffffff;
+  background-color: #2196f3;
+}
+body {
+  font: roboto;
+}
+.map {
+  color: #ffffff;
+}
